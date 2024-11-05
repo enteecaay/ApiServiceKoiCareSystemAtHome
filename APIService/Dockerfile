@@ -33,4 +33,4 @@ COPY ./run.sh .
 RUN chmod +x run.sh
 
 # Use run.sh as the single entry point
-ENTRYPOINT ["./run.sh"]
+ENTRYPOINT ["run.sh"]
