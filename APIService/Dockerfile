@@ -7,7 +7,6 @@ WORKDIR /app
 EXPOSE 8080
 EXPOSE 8081
 
-
 # This stage is used to build the service project
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
@@ -28,4 +27,10 @@ RUN dotnet publish "./APIService.csproj" -c $BUILD_CONFIGURATION -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "APIService.dll"]
+
+# Copy and set up run.sh script
+COPY ./run.sh .
+RUN chmod +x run.sh
+
+# Use run.sh as the single entry point
+ENTRYPOINT ["./run.sh"]
