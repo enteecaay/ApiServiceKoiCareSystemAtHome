@@ -1,0 +1,327 @@
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\APIService.exe
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\appsettings.json
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\APIService.deps.json
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\APIService.runtimeconfig.json
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\APIService.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\APIService.pdb
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\AutoMapper.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Azure.Core.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Azure.Identity.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\FirebaseAdmin.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Firebase.Auth.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Firebase.Storage.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Google.Api.Gax.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Google.Apis.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Google.Apis.Auth.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Google.Apis.Core.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Humanizer.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\MailKit.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\MimeKit.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.ClientModel.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.CodeDom.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Management.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Memory.Data.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Domain.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\bin\Debug\net8.0\Domain.pdb
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.csproj.AssemblyReference.cache
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.AssemblyInfoInputs.cache
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.AssemblyInfo.cs
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.csproj.CoreCompileInputs.cache
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.MvcApplicationPartsAssemblyInfo.cs
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.MvcApplicationPartsAssemblyInfo.cache
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.sourcelink.json
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets.build.json
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets.development.json
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets\msbuild.APIService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets\msbuild.build.APIService.props
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIService.props
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIService.props
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets.pack.json
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\scopedcss\bundle\APIService.styles.css
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.csproj.Up2Date
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\refint\APIService.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.pdb
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.genruntimeconfig.cache
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\APIService\obj\Debug\net8.0\ref\APIService.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\APIService.exe
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\appsettings.json
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\APIService.deps.json
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\APIService.runtimeconfig.json
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\APIService.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\APIService.pdb
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\AutoMapper.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Azure.Core.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Azure.Identity.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\FirebaseAdmin.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Firebase.Auth.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Firebase.Storage.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Google.Api.Gax.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Google.Apis.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Google.Apis.Auth.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Google.Apis.Core.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Humanizer.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\MailKit.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\MimeKit.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.ClientModel.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.CodeDom.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Management.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Domain.dll
+E:\Dockertest\backend\FinalDemo\APIService\bin\Debug\net8.0\Domain.pdb
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.csproj.AssemblyReference.cache
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.AssemblyInfoInputs.cache
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.AssemblyInfo.cs
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.csproj.CoreCompileInputs.cache
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.MvcApplicationPartsAssemblyInfo.cs
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.MvcApplicationPartsAssemblyInfo.cache
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets.build.json
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets.development.json
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets\msbuild.APIService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets\msbuild.build.APIService.props
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIService.props
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIService.props
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\scopedcss\bundle\APIService.styles.css
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.csproj.Up2Date
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.dll
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\refint\APIService.dll
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.pdb
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\APIService.genruntimeconfig.cache
+E:\Dockertest\backend\FinalDemo\APIService\obj\Debug\net8.0\ref\APIService.dll

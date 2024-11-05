@@ -1,0 +1,15 @@
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\bin\Release\net8.0\Domain.deps.json
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\bin\Release\net8.0\Domain.runtimeconfig.json
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\bin\Release\net8.0\Domain.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\bin\Release\net8.0\Domain.pdb
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\obj\Release\net8.0\Domain.csproj.AssemblyReference.cache
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\obj\Release\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\obj\Release\net8.0\Domain.AssemblyInfoInputs.cache
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\obj\Release\net8.0\Domain.AssemblyInfo.cs
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\obj\Release\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\obj\Release\net8.0\Domain.sourcelink.json
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\obj\Release\net8.0\Domain.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\obj\Release\net8.0\refint\Domain.dll
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\obj\Release\net8.0\Domain.pdb
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\obj\Release\net8.0\Domain.genruntimeconfig.cache
+E:\HK5 - FPT\SWP391\SWP391\Backend\FinalDemo\Domain\obj\Release\net8.0\ref\Domain.dll
